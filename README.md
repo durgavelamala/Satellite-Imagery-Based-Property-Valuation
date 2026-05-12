@@ -122,4 +122,4 @@ adds interpretability and future potential when larger image datasets are
 available.
 
 Author
-Velamala Pujitha
+Durga Velamala
